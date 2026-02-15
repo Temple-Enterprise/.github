@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="Temple Enterprise LLC Logo">
 </p>
 
-<h2 align="center">Temple Enterprise LLC</h2>
-
 <p align="center">
 Privately held technology holding and operating company overseeing systems, infrastructure, and security-conscious software platforms.
 </p>
