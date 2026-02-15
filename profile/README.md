@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="110" alt="Temple Enterprise LLC Logo">
+  <img src="assets/banner.png" alt="Temple Enterprise LLC Logo">
 </p>
 
 <h2 align="center">Temple Enterprise LLC</h2>
