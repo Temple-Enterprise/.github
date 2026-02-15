@@ -1,12 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" width="110" alt="Temple Enterprise LLC Logo">
+</p>
 
-<!--
+<h2 align="center">Temple Enterprise LLC</h2>
 
-**Here are some ideas to get you started:**
+<p align="center">
+Privately held technology holding and operating company overseeing systems, infrastructure, and security-conscious software platforms.
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+<a href="https://templeenterprise.com">templeenterprise.com</a>
+</p>
